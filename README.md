@@ -2,7 +2,7 @@
 
 para ver el reporte de analisis de codigo:
 
-https://kleer-la.github.io/template2_6_5/overview.html#
+https://dennys1.github.io/ahorcado/overview.html#
 
 
 ### Para el setup sin docker:
